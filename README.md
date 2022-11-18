@@ -1,5 +1,5 @@
 - Hi, I’m @iiiiivan
-- I’m interested in play video game
+- I’m interested in playing video game
 - I am a student
 
 <!---
